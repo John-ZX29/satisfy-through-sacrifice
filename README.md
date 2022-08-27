@@ -1,2 +1,2 @@
-# Satisfy_though_Sacrifice
+# Satisfy_through_Sacrifice
 A web based video game
